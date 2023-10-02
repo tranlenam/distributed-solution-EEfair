@@ -1,0 +1,18 @@
+metadata_version: 1
+name: Distributed Solutions for Energy Efficiency Fairness in Multicell MISO Downlink
+description: Simulation codes for "Distributed Solutions for Energy Efficiency Fairness
+  in Multicell MISO Downlink" by Kien-Giang Nguyen, Quang-Doanh Vu, Markku Juntti,
+  and Le-Nam Tran, IEEE Trans. Wireless Commun., vol. 16, no. 9, Sep. 2017.
+authors:
+- name: Kien-Giang Nguyen
+  affiliations:
+  - name: University of Oulu
+- name: Quang-Doanh Vu
+  affiliations:
+  - name: University of Oulu
+- name: Markku Juntti
+  affiliations:
+  - name: University of Oulu
+- name: Le-Nam Tran
+  affiliations:
+  - name: University College Dublin
